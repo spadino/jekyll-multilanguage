@@ -1,0 +1,20 @@
+selectLang:
+  en: "Select your language"
+  es: "Seleccionar el idioma"
+  it: "Selezionare la lingua"
+  pt: "Selecione o idioma"
+relatedPosts:
+  en: "Related Posts"
+  es: "Artículos Relacionados"
+  it: "Articoli Relazionati"
+  pt: "Artigos Relacionados"
+differentLanguage:
+  en: "Read this page in a different language"
+  es: "Lea esta página en un idioma diferente"
+  it: "Leggi questa pagina in un'altra lingua"
+  pt: "Leia esta página em um outro idioma"
+viewIn:
+  en: "View in"
+  es: "Ver en"
+  it: "Guarda in"
+  pt: "Olha em"
